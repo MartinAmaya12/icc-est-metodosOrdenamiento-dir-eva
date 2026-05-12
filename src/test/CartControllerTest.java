@@ -1,11 +1,9 @@
 package test;
 
 import models.Car;
+import models.CarController;
 import validaciones.Validators;
 import org.junit.jupiter.api.Test;
-
-import controllers.CarController;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 
